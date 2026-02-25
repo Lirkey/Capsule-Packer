@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "gO60wtHj9L0=",
+  "success": true,
+  "projectFilePath": "D:\\C++++\\Rider Proj\\Capsule-Packer\\Capsule-Packer\\Capsule-Packer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia\\11.3.12\\avalonia.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.25547.20250602\\avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.avaloniaedit\\11.4.1\\avalonia.avaloniaedit.11.4.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.buildservices\\11.3.2\\avalonia.buildservices.11.3.2.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.controls.colorpicker\\11.3.12\\avalonia.controls.colorpicker.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.desktop\\11.3.12\\avalonia.desktop.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.diagnostics\\11.3.12\\avalonia.diagnostics.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.fonts.inter\\11.3.12\\avalonia.fonts.inter.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.freedesktop\\11.3.12\\avalonia.freedesktop.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.markup.declarative\\11.1.3\\avalonia.markup.declarative.11.1.3.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.native\\11.3.12\\avalonia.native.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.remote.protocol\\11.3.12\\avalonia.remote.protocol.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.skia\\11.3.12\\avalonia.skia.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.themes.fluent\\11.3.12\\avalonia.themes.fluent.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.themes.simple\\11.3.12\\avalonia.themes.simple.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.win32\\11.3.12\\avalonia.win32.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avalonia.x11\\11.3.12\\avalonia.x11.11.3.12.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\avaloniaedit.textmate\\11.4.1\\avaloniaedit.textmate.11.4.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\harfbuzzsharp\\8.3.1.1\\harfbuzzsharp.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\8.3.1.1\\harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.1\\harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\8.3.1.1\\harfbuzzsharp.nativeassets.webassembly.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.1.1\\harfbuzzsharp.nativeassets.win32.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\5.3.0-2.final\\microsoft.codeanalysis.analyzers.5.3.0-2.final.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\microsoft.codeanalysis.common\\5.3.0-2.final\\microsoft.codeanalysis.common.5.3.0-2.final.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\microsoft.codeanalysis.csharp\\5.3.0-2.final\\microsoft.codeanalysis.csharp.5.3.0-2.final.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\onigwrap\\1.0.10\\onigwrap.1.0.10.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\skiasharp\\2.88.9\\skiasharp.2.88.9.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.9\\skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.9\\skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.9\\skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.9\\skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\textmatesharp\\2.0.3\\textmatesharp.2.0.3.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\textmatesharp.grammars\\2.0.2\\textmatesharp.grammars.2.0.2.nupkg.sha512",
+    "C:\\Users\\moros\\.nuget\\packages\\tmds.dbus.protocol\\0.21.2\\tmds.dbus.protocol.0.21.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.CodeAnalysis.CSharp 5.3.0-2.final depends on Microsoft.CodeAnalysis.Analyzers (>= 5.3.0-2.25625.1) but Microsoft.CodeAnalysis.Analyzers 5.3.0-2.25625.1 was not found. Microsoft.CodeAnalysis.Analyzers 5.3.0-2.final was resolved instead.",
+      "projectPath": "D:\\C++++\\Rider Proj\\Capsule-Packer\\Capsule-Packer\\Capsule-Packer.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C++++\\Rider Proj\\Capsule-Packer\\Capsule-Packer\\Capsule-Packer.csproj",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

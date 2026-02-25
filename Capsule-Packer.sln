@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capsule-Packer", "Capsule-Packer\Capsule-Packer.csproj", "{170038BD-EC6E-4783-8A99-D0F5E2E4B82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170038BD-EC6E-4783-8A99-D0F5E2E4B82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170038BD-EC6E-4783-8A99-D0F5E2E4B82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170038BD-EC6E-4783-8A99-D0F5E2E4B82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170038BD-EC6E-4783-8A99-D0F5E2E4B82F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
